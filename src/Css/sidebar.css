@@ -1,0 +1,14 @@
+/* styles.css */
+.grid-lines {
+  background-image: linear-gradient(#9abdff 1px, transparent 1px);
+
+  background-size: 32px 32px;
+}
+
+.grid-lines-two {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+
+  background-size: 20px 20px;
+  background-color: #98d1e6;
+}
